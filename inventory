@@ -1,0 +1,3 @@
+[all]
+192.168.56.111#client 
+localhost ansible_connection=local
